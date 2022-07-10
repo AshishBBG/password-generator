@@ -1,0 +1,42 @@
+
+body{
+	min-width: 400px;
+
+}
+
+.container {
+	text-align: center;
+	justify-content: center;
+    background: #F99F23;
+    /*background: #288DF0;*/
+    border: 2px solid red;
+    width: 100%;
+    height: 200px;
+}
+
+#pass-gen{
+	margin-top: 25px;
+	color: #F99F23;
+	background: white;
+	border: none;
+	padding: 10px 15px;
+	border-radius: 2px;
+	font-weight: bold;
+	border: 2px solid red;
+	font-size: 15px;
+
+}
+
+#span-style{
+	color: white;
+	font-weight: bold;
+	padding: 5px 10px;
+	border: 3px solid white;
+	background: blue;
+	border-radius: 3px;
+}
+
+#span-inner{
+color: yellow;
+border-bottom: 2px solid white;
+}
